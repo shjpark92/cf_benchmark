@@ -7,3 +7,6 @@
 [submodule "bench_lua"]
 	path = bench_lua
 	url = https://github.com/vkrasnov/bench_lua
+[submodule "boringssl"]
+	path = boringssl
+	url = https://boringssl.googlesource.com/boringssl
